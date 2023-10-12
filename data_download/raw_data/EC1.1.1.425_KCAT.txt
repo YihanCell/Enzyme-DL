@@ -1,0 +1,1 @@
+ecNumber*1.1.1.425#turnoverNumber*333#turnoverNumberMaximum*#substrate*levoglucosan#commentary*pH 9, 40&Acirc;&deg;C#organism*Arthrobacter sp. I-552#ligandStructureId*186746#literature*760725#

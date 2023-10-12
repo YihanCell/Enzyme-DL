@@ -8,12 +8,11 @@
 
 ################################################################################
 
-# Updated by:
 # Author: Yihan CHEN
 # This code should be run under the Python 2.7 environment because of the usage of SOAP.
 
 # Main script
-output_path = "./data_download/raw_data"  # Change this to your desired output path
+output_path = "../data_download/raw_data"  # Change this to your desired output path
 email = "Y.Chen323@liverpool.ac.uk"  # Change this to your BRENDA account email
 password = "BcQLASvQufLLhm6"  # Change this to your BRENDA account password
 

@@ -1,0 +1,1 @@
+ecNumber*1.1.1.123#turnoverNumber*29.3#turnoverNumberMaximum*#substrate*5-dehydro-D-fructose#commentary*pH and temperature not specified in the publication#organism*Clostridium pasteurianum#ligandStructureId*2716#literature*762664#

@@ -1,0 +1,1 @@
+ecNumber*1.1.1.140#turnoverNumber*0.56#turnoverNumberMaximum*#substrate*D-fructose 6-phosphate#commentary*pH 9.0, 22&deg;C#organism*Erwinia amylovora#ligandStructureId*87#literature*763401#!ecNumber*1.1.1.140#turnoverNumber*5.6#turnoverNumberMaximum*#substrate*D-sorbitol 6-phosphate#commentary*pH 9.0, 22&deg;C#organism*Erwinia amylovora#ligandStructureId*4804#literature*763401#
